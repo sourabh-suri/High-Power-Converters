@@ -5,3 +5,4 @@ The transmission line impedance is 100 Ω (primarily inductive) Designing and si
 which should be able to control the midpoint voltage in the range from 0.7 p u to 1.3 p u.  
 The simulation program is able to follow the change in mid point reference and the controller should accordingly
 act during the simulation run.  
+Goto [Report](https://github.com/sourabh-suri/High-Power-Converters/blob/master/High%20Power%20Converters/HPC_Report.pdf) for all details. 
